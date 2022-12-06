@@ -1,0 +1,6 @@
+fileignoreconfig:
+- filename: imcopy.c
+  checksum: c9d49369a04cf8998bd7502bce5a686392f91eb487dd5617bfeb032c8ddd5296
+- filename: modhead.c
+  checksum: 8a9d97f50411edde3926eef926be34a90f44121eadb669a62579104fcdcbea50
+version: "1.0"
